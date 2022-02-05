@@ -1,0 +1,192 @@
+@font-face {
+    font-family: meriweather;
+    src: url(Merriweather/Merriweather-Bold.ttf);
+}
+body{
+    margin: 0%;
+    background-color: #fff;
+    font-family: sans-serif;
+}
+#header{
+    background-color: #fff;
+    position: fixed;
+    top: 0px;
+    margin-left: -1%;
+    padding-left: 1%;
+    width: 100%;
+    height: 4.8vw;
+}
+#headimg{
+    position: relative;
+    left: 10%;
+    top: 5%;
+    width: 15%;
+    height: 4vw;
+}
+#mainbutt{
+    position: relative;
+    left: 16.7%;
+    top: -17%;
+    margin: 10px 0px 10px 17px ;
+    font-size: 0.9vw;
+    background-color: #fff;
+    border: none;
+    padding: 0.3% 0.5% 0.3% 1.5%;
+    border-radius: 30px;
+}
+#headbutt{
+    margin-left: 1%;
+    position: relative;
+    left: 16.7%;
+    top: -17%;
+    font-size: 0.9vw;
+    background-color: #fff;
+    padding: 0.3% 0.5% 0.3% 1.5%;
+    border-radius: 30px;
+}
+#headbutt:hover{
+    margin-left: 17px;
+    font-size: 0.9vw;
+    color: #fff;
+    background-color: #316DC3;
+    padding: 0.3% 0.5% 0.3% 1.5%;
+    border-radius: 30px;
+}
+#mainbutt:hover{
+    margin-left: 17px;
+    margin: 10px 0px 10px 17px ;
+    font-size: 0.9vw;
+    padding: 0.3% 0.5% 0.3% 1.5%;
+    color: #fff;
+    background-color: #316DC3;
+    border-radius: 30px;
+}
+#slider{
+    height: 33vw;
+    width: 100%;
+    align-items: center;
+}
+#slideshow{
+    position: relative;
+    right: 15%;
+    left: 15%;
+    text-align: center;
+    width: 69%;
+    padding: 1%;
+    font-size: 0.8vw;
+    color: white;
+    background-color: #316DC3;
+}
+span{
+    color: #427900 ;
+}
+#intro{
+    font-weight: bold;
+    color: #316DC3;
+    font-family: serif;
+    font-size: 2.5vw;
+    text-align: center;
+    font-family: meriweather;
+    position: relative;
+    left: 2%;
+}
+#imglogo{
+    height: 2.5vw;
+    width: auto;
+    border: none;
+    position: relative;
+    left: 47%;
+    top: 1vw;
+    top: -1vw;
+    margin-bottom: 2px;
+}
+#mianp{
+    color: rgb(150, 150, 150);
+    font-size: 0.9vw;
+    font-family: sans-serif;
+    font-weight: lighter;
+    line-height: 1.5vw;
+    position: relative;
+    left: 20%;
+    right: 30%;
+    width: 60%;
+    text-align: left;
+    margin-bottom: 5vw;
+}
+#introduction{
+    min-width: 70%;
+    max-width: 100%;
+    text-align: center;
+}
+#start{
+    position: relative;
+    top: -1vw;
+    left: 26%;
+    padding-right: 2%;
+    border: none;
+    border-bottom: 2px solid #427900;
+}
+#end{
+    padding-right: 2%;
+    position: relative;
+    left: 21%;
+    top: -1vw;
+    border: none;
+    border-bottom: 2px solid #427900;
+}
+#Maindiv{
+    background-color: #2755e9;
+    height: 46vw;
+    width: 100%;
+    max-width: 100%;
+    padding: 1%;
+}
+#fbox{
+    height: 10vw;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 10%;
+}
+#fbox2{
+    height: 10vw;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 23%;
+    top: -12vw;
+}
+#fbox3{
+    height: 10vw;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 46%;
+    top: -24vw;
+}
+#mainimg{
+    position: relative;
+    top: 5%;
+    left: 15%;
+    height: 8%;
+    width: auto;
+}
+h1{
+    color: white;
+    font-family: meriweather;
+    font-size: 1vw;
+    margin-top: -2vw;
+    position: relative;
+    left: -33%;
+}
+p{
+    color: white;
+   font-family: meriweather;
+   font-size: 2.5vw;
+   position: relative;
+   left: -33%;
+}
+#last{
+    font-family: meriweather;
+    color: #00FF00;
+   
